@@ -1,0 +1,20 @@
+body{background-color: aqua;}
+h1{ 
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li{
+        color: blue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}

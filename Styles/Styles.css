@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+li{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
